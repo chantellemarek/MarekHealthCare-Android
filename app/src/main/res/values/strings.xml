@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Health Care System</string>
+
+    <!-- Patient Page -->
+    <string name="first_name_label">First Name:</string>
+    <string name="last_name_label">Last Name:</string>
+    <string name="dob_label">Date of Birth:</string>
+    <string name="message_label">Message:</string>
+    <string name="patient_ID_label">Patient ID:</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="email_label">Email:</string>
+
+    <!-- Hint Labels -->
+    <string name="first_name_hint">Your First Name</string>
+    <string name="last_name_hint">Your Last Name</string>
+    <string name="dob_hint">00/00/0000</string>
+    <string name="phone_number_hint">000-000-0000</string>
+    <string name="message_hint">Your Message</string>
+    <string name="patient_hint">Patient ID</string>
+    <string name="email_hint">test@email.com</string>
+
+    <!-- Appointment Page -->
+    <string name="appointment_main_label">Appointment</string>
+    <string name="date_hint">00/00/0000</string>
+    <string name="time_hint">00:00:00</string>
+    <string name="app_date_label">Appointment Date:</string>
+    <string name="app_time_label">Appointment Time:</string>
+    <string name="name_text">Patient Name</string>
+    <string name="date_text">Appointment Date</string>
+
+    <!-- Staff Page -->
+    <string name="staff_main_label">Staff</string>
+    <string name="doctor_one_label">Dr. Jane Doe</string>
+    <string name="nurse_one_label">John Doe</string>
+    <string name="doctor_label">Our Current Doctors:</string>
+    <string name="instruction_staff_label">Click the name of our staff member to view their department and area of training.</string>
+    <string name="nurse_label">Our Current Nurses:</string>
+    <string name="doctor_two_label">Dr. James DeKay</string>
+    <string name="doctor_three_label">Dr. Alex Jacobs</string>
+    <string name="doctor_four_label">Dr. Anthony Marcs</string>
+    <string name="doctor_five_label">Dr. Emily Wright</string>
+    <string name="nurse_two_label">Veronica Forrest</string>
+    <string name="nurse_three_label">Nathan Estes</string>
+    <string name="nurse_four_label">Cybil Reuss</string>
+    <string name="nurse_five_label">Ashley Ashard</string>
+
+    <!-- Staff Description Page -->
+    <string name="jacobs_description_label">Pediatrician - Child Care Center</string>
+    <string name="marcs_description_label">Dermatologist - Dermatology Department</string>
+    <string name="wright_description_label">Endocrenologist - Endocrenologist Department</string>
+    <string name="john_description_label">Cardiology Assist - Cardiology Department</string>
+    <string name="forrest_description_label">Pediatrician Assistant - Child Care Center</string>
+    <string name="estes_description_label">Dermatologist Nurse - Dermatology Department</string>
+    <string name="reuss_description_label">Dental Hygenist - Denist</string>
+    <string name="ashard_description_label">Endocrenologist Nurse - Endocrenologist Department</string>
+    <string name="doe_description_label">Cardiologist - Cardiology Department</string>
+    <string name="dekay_description_label">Dentist - Dentiststry</string>
+
+    <!-- Contact Page -->
+    <string name="contact_instruction_label">Fill out the form below. We will get back to you as soon as possible.</string>
+    <string name="contact_us_label">Contact Us</string>
+    <string name="button_contact_submit">Submit</string>
+
+    <!-- Department Page -->
+    <string name="department_one_label">Cardiology</string>
+    <string name="c_department_label">C</string>
+    <string name="D_department_label">D</string>
+    <string name="dentristy_label">Dentist</string>
+    <string name="instruction_department_label">Click the name of a department to learn more about it.</string>
+    <string name="child_care_label">Child Care Center</string>
+    <string name="dermatology_label">Dermatology</string>
+    <string name="E_department_label">E</string>
+    <string name="endocrinology_label">Endocrinology</string>
+
+    <!-- Department Description Page -->
+    <string name="endocrinology_desc_label">Medicine that studies the endocrine system.
+    The endocrine system regulates and controls the hormones inside the body.
+    The hormones regulated are vital to our body because they have a great importance
+    in our development, growth, and everyday life.</string>
+    <string name="dermatology_desc_label">Medicine that focuses on the skin. Dermatologists take
+    care and manage diseases related to skin, hair, nails, and sometimes cosmetic problems.
+    This type of medicine has a speciality in medical and surgical aspects.</string>
+    <string name="child_care_desc_label">A department with focus to children.
+    Peditricians are usually working in this department. Pediatricians specialize
+    in taking care of children and their diseases.</string>
+    <string name="cardiology_desc_label">Medicine that deals with disorders of the heart and
+    often parts of the circulatory system.</string>
+    <string name="dentist_desc_label">Medicine that consists of study, diagnosis, prevention,
+    and treatment of diseases, disorders, and conditions in the mouth and surrounding areas.</string>
+
+    <!-- Misc Labels-->
+    <string name="button_app_submit">Submit</string>
+    <string name="title_activity_database_content">DatabaseContent</string>
+    <string name="add_button_label">Add Button</string>
+    <string name="menu_cancel_text">Cancel</string>
+    <string name="title_activity_database">DatabaseActivity</string>
+    <string name="recieved_label">Your message was recieved</string>
+    <string name="welcome_image_description">Welcome Image</string>
+    <string name="about_label">This app is a Medical App. It contains a staff and department page. You can create an appointment and use the contact page.</string>
+
+
+</resources>
